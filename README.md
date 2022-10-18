@@ -2,4 +2,4 @@
 Auto refresh client side with one module
 
 # How to use
-- teste
+- edit <b>config.js</b> and set <code>pathname</code> to auto-refresh watch
