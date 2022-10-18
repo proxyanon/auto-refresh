@@ -2,10 +2,10 @@
 Auto refresh is a realtime content refresh javascript module to help in front-end dev
 
 # How to use
-- Install node_modules (<code>$ yarn install</code>)
-- Edit <b>src/config.js</b> and set <code>pathname</code> to auto-refresh watch
-- Run <code>$ yarn start</code>
-- Add script tag `<script src="https://localhost:8291/refresh.js" type="module"></script>` to <b>client-side</b>
+- Install node modules (`$ yarn install`)
+- Edit *src/config.js* and set `pathname` to auto-refresh watch
+- Run `$ yarn start`
+- Add script tag `<script src="https://localhost:8291/refresh.js" type="module"></script>` to *client-side*
 
 <br>
 <small>If u use npm just change yarn to npm</small>
