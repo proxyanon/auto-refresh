@@ -1,5 +1,5 @@
 # auto-refresh
-Auto refresh is realtime content refresh js module to help in front-end dev
+Auto refresh is a realtime content refresh js module to help in front-end dev
 
 # How to use
 - Install node_modules (<code>$ yarn install</code>)
