@@ -8,4 +8,4 @@ Auto refresh is a realtime content refresh javascript module to help in front-en
 - Add script tag `<script src="https://localhost:8291/refresh.js" type="module"></script>` to **client-side**
 
 <br>
-<small class="text-right">If u use npm just change yarn to npm</small>
+<small>If u use npm just change yarn to npm</small>
